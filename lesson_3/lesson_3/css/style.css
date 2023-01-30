@@ -1,0 +1,70 @@
+@import url("reset.css");
+
+span {
+	color: rgb(251, 8, 69);
+}
+
+#chapter4 {
+	color: rgb(131, 10, 117);
+}
+
+#chapter7 {
+	color: rgb(11, 197, 14);
+}
+
+.menu__list {
+	color: rgb(53, 5, 243);
+}
+
+p.bachu {
+	color: rgb(241, 161, 24);
+}
+
+.main.link {
+	color: blue;
+}
+
+.link {
+	color: blue;
+}
+
+#chapter2,
+#chapter3 {
+	color: rgb(10, 243, 243);
+}
+
+.tacticmedaid__text p {
+	color: rgba(4, 73, 2, 0.679);
+	}
+
+	.main__page .line {
+		color: mediumorchid;
+	}
+
+	.footer__link * {
+		color: crimson;
+	}
+
+	.zrada__text>p {
+		color: darkgreen;
+	}
+
+	.helsi__text ~ p  {
+		color: rgb(97, 32, 218);
+	}
+
+	.helsi__text + p {
+		color: rgb(160, 238, 16);
+	}
+
+	[class*="__container"] {
+		color: rgb(6, 98, 141) !important;
+	}
+
+
+.bachu__text {
+	color: blueviolet;
+}
+.bachu__link {
+	color: black;
+}
