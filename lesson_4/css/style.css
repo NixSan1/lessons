@@ -1,0 +1,87 @@
+@import url("fonts.css");
+
+@import url("reset.css");
+
+body {
+	font-family: "Cormorant Infant",  serif;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 1.1;
+	color: rgb(11, 10, 9);
+}
+
+h1 {
+	font-family: "Marck Script", serif;
+	font-size: 30px;
+	font-style: oblique;
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(0, 128, 0, 0.5);
+}
+
+.header__text span {
+	font-family: "Marck Script", serif;
+	font-size: 18px;
+	font-weight: 300;
+	text-decoration: none;
+	color: rgba(9, 9, 6, 0.918);
+
+	color: #000000;
+}
+
+span {
+	font-family: "Vasek", serif ;
+	font-weight: 700;
+	font-size: 35px;
+	text-decoration: overline;
+	
+	
+}
+
+
+[class*="__title"] {
+	font-family: "Vasek", serif;
+	font-size: 40px;
+	text-align: center;
+	text-decoration: underline;
+	text-transform: capitalize;
+	color: darkred;
+}
+
+.block__content {
+	font-family: "Marck Script";
+	font-weight: 800;
+	text-align: justify;
+	text-shadow: 2px 2px 5px rgb(131, 76, 4);
+	color: blue;
+}
+
+.box__content p {
+	font-weight: 500;
+   text-indent: 15px;
+	letter-spacing: 2px;
+	white-space:normal ;
+}
+
+.footer__link {
+	font-family: "Vasek", serif;
+	font-weight: 700;
+	font-size: 35px;
+	text-align: center;
+	text-decoration: overline;
+	color: #000000;
+}
+
+
+
+ol>li{
+	font-family: "Marck Script", serif;
+	font-weight: 700;
+	list-style: inside;
+	word-spacing: 10px;
+}
+
+
+
+
