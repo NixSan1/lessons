@@ -1,0 +1,66 @@
+@import url("fonts.css");
+
+@import url("reset.css");
+
+
+body {
+	background-color: rgb(131, 230, 131);
+}
+
+.block {
+	max-width: 1270px;
+	margin: 0 auto;
+	padding: 20px;
+	
+}
+
+.title__img {
+	min-width: 100%;
+}
+[class *="__conteiner"]{
+	font-family: Poppins, serif;
+	font-weight: 700;
+	font-size: 25px;
+	line-height: 1.6;
+	text-align: center;
+	
+}
+
+.content p {
+	margin-bottom: 20px;
+	
+}
+.content img {
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+
+
+.icon{
+	font-family: Inter, sans-serif;
+
+}
+
+.icon p{
+	color: rgb(239, 244, 239);
+	margin-bottom: 20px;
+	
+}
+.svg img{
+	background-color: brown;
+	padding: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border-radius: 30px;
+}
+
+.elements p{
+	margin-bottom: 20px;
+}
+.vector {
+	height: 500px;
+	width: 300px;
+	background: url(../img/list_icons/Dotted\Shape.png)  0 10px no-repeat, url(../img/list_icons/Dotted\Shape2.png)  0 150px no-repeat, url(../img/list_icons/Dotted\Shape3.png) 0 250px no-repeat, url(../img/list_icons/Oval.png) 0 350px no-repeat,
+	url(../img/list_icons/Vector\h300px.png)  0px 450px no-repeat, url(../img/list_icons/Oval2.png) rgb(126, 102, 3) 70px 150px no-repeat;
+}
